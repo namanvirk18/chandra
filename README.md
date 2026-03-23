@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-Chandra-OCR-2.png?raw=true" alt="Datalab Chandra OCR 2" width="300">
+<img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-Chandra-OCR-2.png?raw=true" alt="Datalab Chandra OCR 2" width="500">
 
 <p></p>
 
