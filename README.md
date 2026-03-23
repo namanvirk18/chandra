@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-logo-removebg.png?raw=true" alt="Datalab Logo" width="300" style="margin-bottom: -20px;">
+<img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-logo-removebg.png?raw=true" alt="Datalab Logo" width="400" style="margin-bottom: -20px;">
 
 # Chandra OCR 2
 
