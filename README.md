@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-logo.png?raw=true" alt="Datalab Logo" width="300"/>
+<img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-logo-removebg.png?raw=true" alt="Datalab Logo" width="300"/>
 
 <h1>Chandra OCR 2</h1>
 
@@ -13,6 +13,8 @@
 <a href="https://discord.gg/KuZwXNGnfH">
   <img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white" alt="Discord">
 </a>
+
+<br><br>
 
 Chandra OCR 2 is a state of the art OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
 
