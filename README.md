@@ -2,6 +2,8 @@
 
 <img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-Chandra-OCR-2.png?raw=true" alt="Datalab Chandra OCR 2" width="300">
 
+<p></p>
+
 <a href="https://opensource.org/licenses/Apache-2.0">
   <img src="https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg" alt="Code License">
 </a>
