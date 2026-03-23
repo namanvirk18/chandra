@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white" alt="Discord">
 </a>
 
+<p></p>
+
 <p style="max-width: 900px; margin: 20px auto;">Chandra OCR 2 is a state of the art OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.</p>
 
 </div>
