@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-logo-removebg.png?raw=true" alt="Datalab Logo" width="300"/>
+<img src="https://github.com/namanvirk18/chandra/blob/master/assets/DataLab-logo-removebg.png?raw=true" alt="Datalab Logo" width="300" style="margin-bottom: -20px;">
 
-<h1>Chandra OCR 2</h1>
+# Chandra OCR 2
 
 <a href="https://opensource.org/licenses/Apache-2.0">
   <img src="https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg" alt="Code License">
